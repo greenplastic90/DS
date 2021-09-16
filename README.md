@@ -1,2 +1,2 @@
 # DS
-practice data science
+practice data science for IBM
